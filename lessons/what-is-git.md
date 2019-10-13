@@ -50,6 +50,27 @@ We ain't using this hammer here. Because it's confusing. And confusing is worthl
 
 Instead, this lesson will focus on a narrow subset of what git can do to make it more approachable (the "Goat Path Git"). Our view is that, as researchers, you are probably pretty good at, well, _researching_ how to fix a problem. If we can get you started using some basic aspects of the tool (git), you will be prepared to learn what you need to make the most of it later!
 
+-----------------------------------------------------------------------------------------------------------------------------
+## The Goat Path
+According to the OED, a goat path is: A (narrow) path or track, especially on a hillside or mountain, such as is made by goats.
+
+Here we take a narrow path in describing git that is useful for researchers who want help with version control for their day-to-day professional lives.
+
+### Why a goat path?
+Well a goat path can be the shortest (and possibly the safest) path to follow in a remote place you're not familiar with. And let's face it, git is unfamiliar territory! The beauty of a goat path is that those who know their way around (the goats) have traveled the same way so many times before that it's actually cut a visible and easy-to-follow trail. You know this trail is safe because, if it weren't, the goats would not have gone that way in the first place.
+
+In case you've never seen a goat path before: this is one.
+
+<img src="/images/goat_path.jpg" width="450">
+
+If you don't follow the goat path as a beginner, bad things happen sometimes. This is so common with git that the popular comic XKCD has even commented on it.
+
+<img src="/images/git_xkcd.png" width="450">
+
+[Comic by XKCD](https://xkcd.com/1597/)
+
+***Please note:*** there has been no mention of coding above. That's on purpose; git can be used to perform version control on regular text (manuscripts, dissertations, theses, etc), data (though there are many, many other [probably better] ways to do this), as well as code! Versioning is great. And versioning is really the whole point here. Git just happens to be the tool we use (but there are many other options, go explore!).
+
 ------------------------------------------------------------------------------------------------------------------------------
 ## So...what is Git?
 Git is powerful software to help you with version control and collaboration. That is, git helps you to track and organize changes to your files over time, revisit prior versions of files, and collaborate with others. Git is built for the command line (although it can be managed through various GUIs - [click here for more](https://git-scm.com/downloads/guis)).
