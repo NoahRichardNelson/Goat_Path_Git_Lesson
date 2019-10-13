@@ -1,9 +1,22 @@
 # Gitting started
-Be sure that git is installed on the computer. To check if you have git installed, do:
-`which git`
+We need to make sure both *git* and *GitHub* are set up for use!
 
-If you get an error or nothing, git installation details can be found on [Google](https://duckduckgo.com/?q=never+gonna+give+you+up+video+autoplay+not+on+youtube&t=ffab&ia=videos&iax=videos&iai=dQw4w9WgXcQ).
+## Make sure you have a GitHub account and can log into it!
+If you have not yet created a GitHub account, please do so now! [github.com](https://github.com)
 
+Pay attention to your *user name* and your *user email*. You will need these later :grin:
+It is recommended that you *use your UA email*.
+
+## Make sure you have git installed on your computer!
+To check if you have (the right version of) git installed, open a command line and do:
+`git --version`
+
+You should get an output like this:
+``
+
+If you get an error or nothing happens, you need to install git! [Visit the workshop homepage and find the git installation instructions](https://ua-carpentries-workshops.github.io/2019-10-26-Tucson/).
+
+##
 It's time to create our first repository!
 1. Make a directory called 'NAME' (mkdir)
 2. `git init` to initialize the directory as a git repository
@@ -12,6 +25,25 @@ It's time to create our first repository!
 5. `git config --global user.email='YOUR EMAIL HERE'`
 
 Oh, that was easy!
+-----------------------------------------------------------------------------------------------------------------------------
+## The Goat Path
+This git lesson for researchers is based on the "Goat Path" concept. The Oxford definition of goat path is: A (narrow) path or track, especially on a hillside or mountain, such as is made by goats. Here we take a narrow path in describing git that is useful for researchers who need versioning in their day-to-day professional lives.
+
+Why a goat path? Well a goat path can be the shortest (and possibly the safest) path to follow in a remote place you're not familiar with; this is exactly how researchers learning code often feel about versioning technologies. The beauty of a goat path is that something (quite possibly actual goats) has followed that specific path so many times it's actually cut a visible and easy to follow trail. If it wasn't safe, it's very likely the path wouldn't get cut in the first place, because those things wouldn't be able to retread their path over and over again.
+
+In case you've never seen a goat path before: this is one.
+
+<img src="/images/goat_path.jpg" width="450">
+
+If you don't follow the goat path as a beginner, bad things happen sometimes. This is so common with git that the popular comic XKCD has even commented on it.
+
+<img src="/images/git_xkcd.png" width="450">
+
+[Comic by XKCD](https://xkcd.com/1597/)
+
+
+***Please note:*** there has been no mention of coding above. That's on purpose; git can be used to perform version control on regular text (manuscripts, dissertations, theses, etc), data (though there are many, many other [probably better] ways to do this), as well as code! Versioning is great. And versioning is really the whole point here. Git just happens to be the tool we use (but there are many other options, go explore!).
+
 
 # PRIOR CONTENT, KEPT FOR NOW
 ## Gitting Set up on a Computer (get it?)
