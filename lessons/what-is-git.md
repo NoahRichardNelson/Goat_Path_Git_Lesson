@@ -84,3 +84,9 @@ Let me be clear: Git is *not the same thing* as GitHub! Git is a tool you can us
 Software Carpentries likes GitHub for a few reasons, but perhaps the best reason is that it is very popular! And when collaboration is one of the goals, popular is a good thing :sunglasses:
 
 Plus, if you're a student, you can have unlimited private repositories with GitHub for the duration of your studentship :nerd_face:
+
+# Guides and resources
+
+[JessiTron: Git Happens (an in-depth look at how Git works)](https://www.youtube.com/watch?v=Dv8I_kfrFWw)
+
+[So WTF is Git?](https://codeburst.io/so-wtf-is-git-fa7daa0e0271)
