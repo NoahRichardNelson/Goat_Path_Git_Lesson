@@ -1,5 +1,6 @@
 # Gitting things done
 In this lesson, we will learn about:
+- git repositories
 - local vs. remote repositories
 - creating a local repository
 - how to organize and track your changes with git
