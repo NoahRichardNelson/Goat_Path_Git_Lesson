@@ -4,8 +4,8 @@ We need to make sure both *git* and *GitHub* are set up for use!
 ## Make sure you have a GitHub account and can log into it!
 If you have not yet created a GitHub account, please do so now! [github.com](https://github.com)
 
-Pay attention to your *user name* and your *user email*. You will need these later :grin:
-It is recommended that you *use your UA email*.
+Pay attention to your *user email* for GitHub. You will need it later :grin:
+It is recommended that you *use your UA email*, but it is not necessary.
 
 ## Make sure you have git installed on your computer!
 To check if you have (the right version of) git installed, open a command line and do:
