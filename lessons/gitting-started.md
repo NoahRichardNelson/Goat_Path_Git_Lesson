@@ -10,15 +10,21 @@ It is recommended that you *use your UA email*, but it is not necessary.
 ## Make sure you have git installed on your computer!
 To check if you have (the right version of) git installed, open a command line and do:
 
-`git --version`
+```bash
+git --version
+```
 
 You should get an output like this (Any 2.XX.X version should be fine):
 
-`git version 2.23.0`
+```text
+git version 2.23.0
+```
 
 If you get the following error message...
 
-`bash: git: command not found`
+```text
+bash: git: command not found
+```
 
 ...you need to install git! [Visit the workshop homepage here to find the git installation instructions](https://ua-carpentries-workshops.github.io/2019-10-26-Tucson/).
 
