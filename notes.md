@@ -1,3 +1,17 @@
+# Organizational notes
+"gitting started" should include:
+- git config --global
+- what is a repository
+- local vs. remote repositories
+
+"gitting things done" should focus on:
+- git status
+- git diff
+- git add
+- git commit
+- git log
+(based entirely in local repo)
+
 # PRIOR CONTENT, KEPT FOR NOW
 ## Gitting Set up on a Computer (get it?)
 Be sure that git is installed on the computer. Installation details found on [Google](https://duckduckgo.com/?q=never+gonna+give+you+up+video+autoplay+not+on+youtube&t=ffab&ia=videos&iax=videos&iai=dQw4w9WgXcQ).
