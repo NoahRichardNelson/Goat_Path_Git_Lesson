@@ -38,4 +38,18 @@ bash: git: command not found
 
 ...you need to install git! [Visit the workshop homepage here to find the git installation instructions](https://ua-carpentries-workshops.github.io/2019-10-26-Tucson/).
 
-## Green stickies when ready, red if you need help!
+## "Configure" Git on your computer
+Git works by creating special identifiers for changes that you make to files. These identifiers are generated in part based on the author of the changes (among many other things).
+
+Consequently, Git needs to know who you are! Let's introduce ourselves to Git:
+
+```bash
+git config --global user.name "YOUR NAME HERE"
+git config --global user.email "YOUR GITHUB EMAIL HERE"
+```
+
+Now we are ready to use Git!
+
+# Guides and Resources
+
+[First Time Git Setup Guide](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
