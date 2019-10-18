@@ -1,7 +1,22 @@
 # What is Git?
+
+## Lesson Objectives
+In this lesson we will cover:
+- what Git is
+- what version control is
+- why these Git lessons barely scratch the surface of what Git can do
+- what GitHub is
+
+## Terminology Covered
+- **version control** -- Alternative terms include "revision control", "versioning". Version control refers to tracking and organizing changes to code, files, etc. over time. For researchers, good version control software can also help us to collaborate, publish, and share our work with others.
+- **Git** -- A powerful tool for version control.
+- **GitHub** -- An online, open-source-friendly platform for hosting work done with Git (and much more). GitHub is dependent on Git, but Git is not dependent on GitHub!
+
+------------------------------------------------------------------------------------------------------------------------------
+## What is Git?
 Git is a tool for "version control" (alt. "revision control", "versioning"). It is not the only tool for version control; Mercurial is another modern example.
 
-## What is "version control?"
+## What is "version control"?
 We've all had this happen before. Researchers do this file naming thing. All. The. Time.
 
 <img src="/images/phd101212s.gif" width="450">
@@ -12,7 +27,6 @@ We do it so we can track the changes we make, collaborate with other researchers
 
 So let's set down some functional requirements for version control needed by researchers.
 
-------------------------------------------------------------------------------------------------------------------------------
 ## Functional requirements of version control for researchers
 
 1. Make it possible to *track changes* to documents, code, data, etc. *over time*
@@ -33,7 +47,7 @@ So let's set down some functional requirements for version control needed by res
 - Collaborate with others in real time
 - Share your work with the *entire* world so others can use it, build on it, repeat it, etc.
 
-### "Make it possible" means the tool must be _simple_
+### "Make it possible" means the tool must be *simple*
 
 Below is a hammer that you can use to drive a nail (the task of interest) at nearly any skill level:
 
@@ -48,7 +62,7 @@ Below is what git gives you out of the box:
 Obviously, this tool is too complicated. Each individual component is probably very useful, but it's so confusing as to be useless until you know how to use each, and every, one of those attachments.
 We ain't using this hammer here. Because it's confusing. And confusing is worthless for beginners needing to get something done.
 
-Instead, this lesson will focus on a narrow subset of what git can do to make it more approachable (the "Goat Path Git"). Our view is that, as researchers, you are probably pretty good at, well, _researching_ how to fix a problem. If we can get you started using some basic aspects of the tool (git), you will be prepared to learn what you need to make the most of it later!
+Instead, this lesson will focus on a narrow subset of what git can do to make it more approachable (the "Goat Path Git"). Our view is that, as researchers, you are probably pretty good at, well, *researching* how to fix a problem. If we can get you started using some basic aspects of the tool (git), you will be prepared to learn what you need to make the most of it later!
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## The Goat Path
