@@ -1,16 +1,12 @@
 # Organizational notes
-"gitting started" should include:
-- git config --global
-- what is a repository
-- local vs. remote repositories
 
-"gitting things done" should focus on:
-- git status
-- git diff
-- git add
-- git commit
-- git log
-(based entirely in local repo)
+First, have them git init a new repo inside of the 2019 workshop directory
+after they have been introduced to git init, use `rmdir .git/` to "unrepo" that directory
+then, show them that they can `git init` and existing directory with content but doing it *to the entire 2019 workshop directory*.
+
+That way, when they git push, they have created a repo with all the workshop content from day 1
+
+Gitting started lesson should be removed from workflow. To occur BEFORE unix lesson.
 
 # PRIOR CONTENT, KEPT FOR NOW
 ## Gitting Set up on a Computer (get it?)
